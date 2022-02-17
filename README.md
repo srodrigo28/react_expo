@@ -6,6 +6,10 @@
     * npm install --global expo-cli
 * Iniciar o projeto
     * npx expo init react my-project
+* Rodando o projeto
+    * expo start
+* Buildo do projeto
+    * expo build: [ios | android]
 
 ## Link Youtube reproduzido
 * https://www.youtube.com/watch?v=V9WYm0DQXhY&t=228s
