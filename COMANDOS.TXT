@@ -1,7 +1,0 @@
-https://www.youtube.com/watch?v=V9WYm0DQXhY&t=228s
-
-* pesquisa interessantes
-    * https://www.youtube.com/results?search_query=react+native+expo&sp=EgIIBA%253D%253D
-* npm install --global expo-cli
-* expo init my-project
-    * npx expo init react my-project
