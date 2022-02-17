@@ -12,3 +12,6 @@
 
 ## Outras fontes
 * https://www.youtube.com/results?search_query=react+native+expo&sp=EgIIBA%253D%253D
+
+## Bibliotecas usadas
+* npm install styled-components
