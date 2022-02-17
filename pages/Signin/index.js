@@ -1,9 +1,11 @@
 import React from 'react';
-import { Text } from './styles';
+import { Text, KeyboardView } from './styles';
 
 function Signin(){
     return(
-        <Text>Página de Login</Text>
+        <KeyboardView>
+            <Text>Página de Login</Text>
+        </KeyboardView>
     )
 }
 export default Signin;
